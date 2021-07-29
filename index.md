@@ -1,19 +1,32 @@
 # Welcome to xsong page
 
-email:1159748547@qq.com
-
 ## 学习进度
 
 ### C/C++
 ```markdown
-
-
-
-
-
-
-
+  - 基本语法[]
+```
+### 数据结构
+```markdown
+  
+```
+### 计算机网络
+```markdown
+  
+```
+### 操作系统
+```markdown
+  
+```
+### 数据库
+```markdown
+  
+```
+### 网络编程
+```markdown
+  
+```
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  email:1159748547@qq.com
